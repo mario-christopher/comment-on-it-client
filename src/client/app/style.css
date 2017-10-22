@@ -1,0 +1,58 @@
+.spc {
+    margin: 5px;
+}
+
+.spc-top {
+    margin-top : 5px;
+}
+
+.spc-bottom {
+    margin-bottom : 5px;
+}
+
+.spc-right {
+    margin-right : 5px;
+}
+
+._row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+._col {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+._stretch {
+    flex: 1;
+}
+
+.body {
+    border-radius: 3px;
+    border: 1px #7E5BEF solid;
+    padding: 2px;
+}
+
+.header {
+    height: 50px;
+    background: #7E5BEF;
+    color: #85D7FF;
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.img {
+    max-width: 100%;
+    height: 400px;
+}
+
+.button {
+    height: 30px;
+    width: 75px;
+    margin: 10px;
+}
