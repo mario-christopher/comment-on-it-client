@@ -3,7 +3,17 @@
 
 The purpose of this application is to demonstrate the ease with which a client app can use the [comment-on-it](https://www.npmjs.com/package/comment-on-it) component.
 
-### Usage
+---
+
+See it in action here:
+
+https://photo-comments.herokuapp.com/
+
+*Note: The site may be asleep, patience !*
+
+---
+
+### 'comment-on-it' Usage:
 
 *   ```npm install --save comment-on-it```  *[see it on npmjs](https://www.npmjs.com/package/comment-on-it)*
 *   Use it in your component.
