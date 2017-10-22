@@ -1,5 +1,5 @@
-# comment-on-it-client
-**comment-on-it-client** is a simple application built using [React](https://facebook.github.io/react/). It is configured using [Webpack](https://webpack.github.io/docs/).
+# photo-comments
+**photo-comments** is a simple application built using [React](https://facebook.github.io/react/). It is configured using [Webpack](https://webpack.github.io/docs/).
 
 The purpose of this application is to demonstrate the ease with which a client app can use the [comment-on-it](https://www.npmjs.com/package/comment-on-it) component.
 

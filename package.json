@@ -1,7 +1,7 @@
 {
-  "name": "hello-world-react",
+  "name": "photo-comments",
   "version": "1.0.0",
-  "description": "This is a simple starter application built using React. It is configured using Webpack",
+  "description": "This is a simple application built using React demonstrating use of comment-on-it component",
   "scripts": {
     "client": "webpack-dev-server --progress",
     "buildui": "rimraf dist && webpack --progress",
